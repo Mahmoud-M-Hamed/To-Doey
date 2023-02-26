@@ -1,6 +1,6 @@
 # todoey
 
-A new Flutter project.
+Todo App To Manage Tasks.
 
 ## Getting Started
 
