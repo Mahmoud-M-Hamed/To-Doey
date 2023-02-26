@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todoey</string>
+    <string name="facebook_app_id">903488960995649</string>
+    <string name="fb_login_protocol_scheme">fbc3e8d86d3d276e85955542a873609db58</string>
+    <string name="facebook_client_token">9d28e973d5d302b8104c240e36b3f9ab</string>
+</resources>
